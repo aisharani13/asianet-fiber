@@ -1,0 +1,72 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+.abc a{
+ text-decoration: none;
+}
+.asdf{
+    background-color: white;
+    width: 100%;
+    border: 2px solid white;
+    margin-top: 5px;
+    padding: 3px;
+    display: grid;
+    grid-template-rows: repeat(auto);
+    grid-gap: 5px;
+}
+.item{
+    background-color: rgb(2, 2, 71);
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(2, 2, 73);
+
+}
+.ijk{
+    background-color: rgb(239, 240, 232);
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(197, 200, 194);
+
+}
+.vbn{
+    background-color: rgb(239, 240, 232);
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(197, 200, 194);
+
+}
+.sa{
+    background-color: rgb(239, 240, 232);
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(197, 200, 194);
+
+}
+.fg{
+    background-color: rgb(239, 240, 232);
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(197, 200, 194);
+
+}
+.rt{
+    background-color: rgb(239, 240, 232);
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(197, 200, 194);
+
+}
+.qwe{
+    background-color: rgb(239, 240, 232);
+    margin: 5px;
+    padding: 5px;
+    border: 3px solid rgb(197, 200, 194);
+
+}
+.qw{
+    background-color: rgb(221, 237, 227);
+    margin: 5px;
+    padding: 5px;
+   
+}
+
